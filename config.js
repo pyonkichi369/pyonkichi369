@@ -1,6 +1,6 @@
 module.exports = {
   pathPrefix: '',
-  siteUrl: 'https://rolwinreevan.com',
+  siteUrl: 'https://pyonkichi369.netlify.com',
   siteTitle: 'pyonkichi369',
   siteDescription: 'Logbook of a software developer',
   author: 'pyonkichi369',
@@ -9,6 +9,7 @@ module.exports = {
   disqusScript: process.env.DISQUS_SCRIPT || 'https://pyonkichi369.disqus.com/embed.js',
   pages: {
     home: '/',
+    blog: 'blog',
     about: 'about',
     contact: 'contact',
     tag: 'tags',
