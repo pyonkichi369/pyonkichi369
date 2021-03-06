@@ -12,7 +12,7 @@ import Config from '../../../../config';
 
 const { Content } = Layout;
 const {
-  facebook, github, instagram, twitter,
+  github, twitter,
 } = Config.social;
 
 const DomContent = () => (
