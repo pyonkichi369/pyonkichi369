@@ -1,6 +1,6 @@
 ---
 title: Working with promises in Javascript
-tags: [ javascript, typescript, nodejs, reactjs ]
+tags: [ javascript ]
 date: 2020-04-20T05:25:44.226Z
 path: blog/promises-in-javascript
 cover: ./javascript.png

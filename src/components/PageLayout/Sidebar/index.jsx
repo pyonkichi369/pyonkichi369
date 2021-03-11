@@ -38,9 +38,14 @@ const DomContent = () => (
 &nbsp; &nbsp; Aug 28,1993
         </li>
         <li className={`${style.contactBlockItem}`}>
-          <span><FeatherIcon size="19" icon="map-pin" /></span>
-          {' '}
+                  <span><FeatherIcon size="19" icon="map-pin" /></span>
+                  {' '}
 &nbsp; &nbsp; Tokyo, Japan
+        </li>
+        <li className={`${style.contactBlockItem}`}>
+                  <span><FeatherIcon size="19" icon="heart" /></span>
+                  {' '}
+&nbsp; &nbsp; Java, PHP, JavaScript
         </li>
 {/*         <li className={`${style.contactBlockItem}`}> */}
 {/*           <span><FeatherIcon size="19" icon="mail" /></span> */}
